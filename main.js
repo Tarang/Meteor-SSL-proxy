@@ -1,12 +1,7 @@
 var PATH_TO_KEY = "",
     PATH_TO_CERT = "";
 
-var http = require('http'),
-    httpProxy = require('http-proxy');
-
 var fs = require('fs'),
-    http = require('http'),
-    https = require('https'),
     httpProxy = require('http-proxy');
 
 var options = {
