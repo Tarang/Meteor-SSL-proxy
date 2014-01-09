@@ -11,3 +11,7 @@ Set up your SSL certs & key path with `PATH_TO_KEY` and `PATH_TO_CERT`
 StartSSL offers free SSL certs
 
 http://startssl.com
+
+# Websocket Issues?
+
+Use the `caronte-merge` branch of node-http-proxy instead. There are issues with node 0.10 and node-http-proxy.
